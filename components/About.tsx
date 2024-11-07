@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div id="about" className="container pt-32">
       <h2 className="text-4xl md:text-5xl" data-aos="zoom-in-up">About</h2>
-      <p className="text-gray-500 pt-4 text-xl" data-aos="zoom-in-up">
+      <p className="text-gray-300 pt-4 text-xl font-serif font-bold" data-aos="zoom-in-up">
         I am currently enrolled as a student at the Global Institute of
         Artificial Intelligence and Computing (GIAIC), where I am pursuing a
         comprehensive course focused on Artificial Intelligence, web 3.0, and
